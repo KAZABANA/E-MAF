@@ -1,5 +1,5 @@
 # E-MAF
-Official Code of On-demand design of controlled-release systems using an expert-mimic AI framework
+Official code of on-demand design of controlled-release systems using an expert-mimic AI framework
 
 (1) Please install pandas, pygad, numpy, sklearn, scipy and the lightgbm using 'pip3 install xxx'
 
